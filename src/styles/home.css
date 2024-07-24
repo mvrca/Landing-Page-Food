@@ -48,6 +48,7 @@
 
     #phone_button button{
         box-shadow: none;
+        color: #1d1d1d;
     }
 
     #banner {
